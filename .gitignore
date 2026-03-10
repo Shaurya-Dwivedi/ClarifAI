@@ -77,6 +77,10 @@ frontend/.pub-cache/
 frontend/.pub/
 frontend/pubspec.lock   # remove this line if you want to lock deps in version control
 
+# Flutter metadata
+frontend/.metadata
+frontend/migrate_working_dir/
+
 # Android
 frontend/android/.gradle/
 frontend/android/local.properties
@@ -85,6 +89,11 @@ frontend/android/key.properties
 frontend/android/**/*.keystore
 frontend/android/**/*.jks
 frontend/android/app/google-services.json
+frontend/android/gradle-wrapper.jar
+frontend/android/gradlew
+frontend/android/gradlew.bat
+frontend/android/GeneratedPluginRegistrant.java
+frontend/android/.cxx/
 
 # iOS
 frontend/ios/Pods/

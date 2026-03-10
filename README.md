@@ -662,9 +662,9 @@ For questions, issues, or suggestions:
 
 ---
 
-**Last Updated**: March 9, 2026
+**Last Updated**: March 10, 2026
 
-**Version**: 1.0.0
+**Version**: 1.2.0
 
 ---
 
