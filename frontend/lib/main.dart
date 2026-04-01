@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import './pages/quiz_page.dart';
 import './services/api_service.dart';
-import './models/assessment_model.dart';
 
 void main() {
   runApp(const ClarifAIApp());
